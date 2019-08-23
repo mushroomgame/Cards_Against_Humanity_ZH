@@ -50,6 +50,6 @@ PR名：`[添加/修改/删除/其他]` + 数字ID / 内容
 
 在做了在做了
 
-游戏终端：[cards-against-humanity](/mushroomgame/cards-against-humanity)
+游戏终端：[cards-against-humanity](https://github.com/mushroomgame/cards-against-humanity)
 
-卡组服务：[CAH_CardService](/mushroomgame/CAH_CardService)
+卡组服务：[CAH_CardService](https://github.com/mushroomgame/CAH_CardService)
