@@ -1,37 +1,14 @@
 # 反人类卡牌游戏 卡组文本
 
+A岛讨论串: https://adnmb2.com/t/19601054
+
 ## 简介
 
-反人类卡牌游戏是风靡欧美的知名卡牌游戏，详见https://en.wikipedia.org/wiki/Cards_Against_Humanity
+反人类卡牌游戏是风靡欧美的知名卡牌游戏，详见 [维基百科: Cards Against Humanity](https://en.wikipedia.org/wiki/Cards_Against_Humanity)
 
 蘑菇游戏工作室曾经制作过本游戏的中国版本，可是年久失修，卡组无法契合现今的中国网络环境（石锤过气小马），性能也亟待提升，在本repo征集新的反人类卡组
 
 ## 模板
-
-- blackcards
-
-文件名：数字ID + `.json`
-
-内容：
-```json
-{
-    "id": 0,
-    "text": "在课堂上{blank}的话那么学校生活就结束了",
-    "blanks": 1
-}
-```
-
-- whitecards
-
-文件名：数字ID + `.json`
-
-内容：
-```json
-{
-    "id": 0,
-    "text": "脱粪"
-}
-```
 
 - Commit
 
@@ -45,13 +22,19 @@ PR名：`[添加/修改/删除/其他]` + 数字ID / 内容
 
 ## 提交
 
-1. 发送PR提交
+1. 通过简道云提交
 
-- 你可以 `fork` 一份本代码到你的Github账户，使用 `Pull Request` 进行提交
+- 注册这个叫可道云的玩意
 
-    详尽的 `Git` 教程：https://www.runoob.com/git/git-tutorial.html
+    https://www.jiandaoyun.com/team_join/5d5aa84e3fa69f0de945ccfa
 
-- 或者你可以 `fork` 后在网页端修改，然后使用 `Pull Request`
+- 添加一张卡牌，不用注册：
+
+    https://tfqhx1wyrc.jiandaoyun.com/f/5d5aa8dc9dad4911a177a3c8
+
+- 查看所有卡牌，不用注册：
+
+    https://link.jiandaoyun.com/q/5d5aa8dc9dad4911a177a3c8
 
 2. 发送issue提交
 
@@ -63,4 +46,10 @@ PR名：`[添加/修改/删除/其他]` + 数字ID / 内容
 
 ## 那么什么时候会出呢？
 
-~~绝赞跳票中~~ +Github问小白(wheatup)，有小姨子在线发牌
+~~绝赞跳票中~~ ~~+Github问小白(wheatup)，有小姨子在线发牌~~
+
+在做了在做了
+
+游戏终端：[cards-against-humanity](/mushroomgame/cards-against-humanity)
+
+卡组服务：[CAH_CardService](/mushroomgame/CAH_CardService)
