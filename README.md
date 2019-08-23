@@ -12,7 +12,7 @@ A岛讨论串: https://adnmb2.com/t/19601054
 
 - Commit
 
-Comment: `[add/modify/delete/info]` + 数字ID / 内容
+Comment: `[add/mod/del/info]` + 数字ID / 内容
 
 - Pull Request
 
@@ -24,7 +24,7 @@ PR名：`[添加/修改/删除/其他]` + 数字ID / 内容
 
 1. 通过简道云提交
 
-- 注册这个叫可道云的玩意
+- 注册这个叫简道云的玩意
 
     https://www.jiandaoyun.com/team_join/5d5aa84e3fa69f0de945ccfa
 
